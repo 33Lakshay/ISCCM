@@ -19,7 +19,7 @@ cursor: pointer;
 }
 header{
   width: 100%;
-  height: 110px;
+  height: 100px;
   position: fixed;
   /* box-shadow: 2px 5px 5px 0px #a39b90; */
   z-index: 1;
